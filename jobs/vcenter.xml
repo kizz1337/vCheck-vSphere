@@ -1,0 +1,6 @@
+<vCheck>
+	<globalVariables>D:\vCheck-vSphere\jobs\vCenter.ps1</globalVariables>
+	<plugins path="D:\vCheck-vSphere\Plugins">
+		<plugin>00 Connection Plugin for vCenter.ps1</plugin>
+	</plugins>
+</vCheck>
